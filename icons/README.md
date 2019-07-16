@@ -4,7 +4,6 @@ This is a collection of icons related to the article: [Conditional formatting in
 
 The source is this official [icon set](https://material.io/tools/icons/?style=baseline) from Google, which is free to use and modify under [Apache license version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
 
-
 All the icons:
 
 <table>

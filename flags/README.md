@@ -2,7 +2,7 @@
 
 This is a collection of flags related to the article: [How to add country flags to a Google Data Studio table](https://baguette.engineering/blog/country-flags-in-google-data-studio/).
 
-The source is [this repo](https://github.com/hjnilsson/country-flags). The flags were taken from Wikipedia and are not under copyright protection since flags are in public domain.
+The source is [this repo](https://github.com/hjnilsson/country-flags), which itself took the flags from Wikipedia, so there are no copyright restrictions.
 
 All the flags:
 
