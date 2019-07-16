@@ -1,2 +1,5 @@
-# gds
-Resources for Google Data Studio  
+# Resources for Google Data Studio
+
+[Country flags](/flags/)
+
+[Icons](/icons/)
